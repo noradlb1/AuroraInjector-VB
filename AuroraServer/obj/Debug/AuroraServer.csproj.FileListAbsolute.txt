@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\bin\Debug\AuroraInjector.exe.config
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\bin\Debug\AuroraInjector.exe
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\bin\Debug\AuroraInjector.pdb
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.about.resources
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.Form1.resources
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.Properties.Resources.resources
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.screen.resources
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraServer.csproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraInjector.exe
+C:\Users\MONSTERMC\Downloads\Aurora-Injector-main\Aurora-Injector-main\AuroraServer\obj\Debug\AuroraInjector.pdb
